@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Class Selector */
+.special-text {
+    font-weight: bold;
+    color: blue;
+}
+
+/* ID Selector */
+#header {
+    background-color: #ccc;
+    padding: 10px;
+}
+
+/* External Link Styles */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
